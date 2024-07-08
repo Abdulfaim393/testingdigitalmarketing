@@ -1,0 +1,6 @@
+export const heading = ["Reputation Management"];
+
+export const paragraph = [
+  "Customers and potential clients embrace the digital platform and provide views on quality, price and customer service. This threatens the brand requiring businesses to upend the strategy and repair the reputation. Reputation management tool scouts for all the negative content across all platforms. It also includes the way your company reacts and responds to those comments is just another way of attracting or pushing back potential and current clients or customers.",
+  "360 solution online reputation management services is to develop an effective strategy that would help protect your brand from negative publicity. Our experts will identify the threats, positives related to the brand and design an effective strategy. With a detailed plan of action, our team would zone out all the key aspect to minimize the impact of negative publicity. Untrue comments, online harassments, low ratings, malicious reviews are few aspects that our experts will deal onto. Our expert reputation management services team has digital capabilities with which they protect you in every step by eliminating any false information that could get passed on to your future clients.",
+];

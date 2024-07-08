@@ -1,0 +1,4 @@
+export const para = [
+  "Pioneered with a vision of developing dynamic apps, 360 Solution is a dedicated app development company in Dubai that helps people worldwide to develop a robust app that could help them showcase their services or products the best. Our team of experts works closely with clients to understand their business and the type of application they desire. In a market where competition is at its peak, our developers give you the edge to move ahead of your competitors by following the latest trends and market demands. ",
+  "In the continuous online business growth, it becomes essential for you to have a responsive website with easy CTA, and our team of professionals specializes in the skills of creating dynamic, visually appealing and user-centric apps that leave lasting impressions on your visitors",
+];

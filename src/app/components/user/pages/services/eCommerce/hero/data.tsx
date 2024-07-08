@@ -1,0 +1,1 @@
+export const Title = "E-commerce Solutions";
